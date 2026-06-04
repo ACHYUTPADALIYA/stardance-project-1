@@ -1,0 +1,13 @@
+/* style.css */
+body {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+
+#info {
+  font-size: 24px;
+  background: rgba(0,0,0,0.5);
+  padding: 10px;
+  border-radius: 8px;
+}
